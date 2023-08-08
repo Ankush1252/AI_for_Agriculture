@@ -1,0 +1,17 @@
+body{
+    margin: auto; 
+    background: url("../Reg/AIAgri.png");
+}
+.form{ 
+    margin: 33px auto;
+    padding: 43px 30px;
+    width: 30%;
+    text-align: center;
+    text-decoration: solid;
+    color: rgb(1, 1, 1) ;
+}
+.navbar{
+    text-align: center;
+    margin: auto;
+    color: rgb(5, 5, 5);
+}
