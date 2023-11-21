@@ -25,7 +25,7 @@
   <body>
     <nav class="navbar navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand">Online Voting System</a>
+        <a class="navbar-brand">User Login</a>
         <form class="d-flex">
          
           <a href="../Reg/Registration.php" class="navbar-brand" id= "login1">Register</a>
